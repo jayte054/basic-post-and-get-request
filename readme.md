@@ -1,0 +1,1 @@
+use of barebone node in typescript to perform basic post and get requests.
